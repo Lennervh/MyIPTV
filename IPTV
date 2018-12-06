@@ -1,219 +1,180 @@
-#EXTM3U
-#EXTINF:-1,Be- VTM HD
-http://194.88.107.95:6204/live/rahma/rahma1234/8962.ts
-#EXTINF:-1,Be- VTM HD backup
-http://194.88.107.95:6204/live/rahma/rahma1234/11263.ts
-#EXTINF:-1,Be- VTM HD Backup 2
-http://194.88.107.95:6204/live/rahma/rahma1234/13421.ts
-#EXTINF:-1,Be- Canvas HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13416.ts
-#EXTINF:-1,Be- Vitaya HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13392.ts
-#EXTINF:-1,Be- Vitaya SD
-http://194.88.107.95:6204/live/rahma/rahma1234/13391.ts
-#EXTINF:-1,Be- Plug RTL
-http://194.88.107.95:6204/live/rahma/rahma1234/13402.ts
-#EXTINF:-1,Be- La Deux
-http://194.88.107.95:6204/live/rahma/rahma1234/13406.ts
-#EXTINF:-1,Be- La Trois
-http://194.88.107.95:6204/live/rahma/rahma1234/13405.ts
-#EXTINF:-1,Be- Club RTL
-http://194.88.107.95:6204/live/rahma/rahma1234/13411.ts
-#EXTINF:-1,Be- LA UNE HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13404.ts
-#EXTINF:-1,Be- Q2 HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13400.ts
-#EXTINF:-1,Be- Vier FHD
-http://194.88.107.95:6204/live/rahma/rahma1234/13394.ts
-#EXTINF:-1,Be- VIJF
-http://194.88.107.95:6204/live/rahma/rahma1234/13393.ts
-#EXTINF:-1,Be- VTM Kazoom
-http://194.88.107.95:6204/live/rahma/rahma1234/13386.ts
-#EXTINF:-1,Be- ??n HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13410.ts
-#EXTINF:-1,Be- 192 TV
-http://194.88.107.95:6204/live/rahma/rahma1234/13420.ts
-#EXTINF:-1,Be- 2BE
-http://194.88.107.95:6204/live/rahma/rahma1234/13419.ts
-#EXTINF:-1,Be- Acht
-http://194.88.107.95:6204/live/rahma/rahma1234/13418.ts
-#EXTINF:-1,Be- BX1
-http://194.88.107.95:6204/live/rahma/rahma1234/13417.ts
-#EXTINF:-1,Be- CAZ
-http://194.88.107.95:6204/live/rahma/rahma1234/13415.ts
-#EXTINF:-1,Be- Cine
-http://194.88.107.95:6204/live/rahma/rahma1234/13414.ts
-#EXTINF:-1,Be- Cinema 1
-http://194.88.107.95:6204/live/rahma/rahma1234/13413.ts
-#EXTINF:-1,Be- Cinema Kids
-http://194.88.107.95:6204/live/rahma/rahma1234/13412.ts
-#EXTINF:-1,Be- Kadet
-http://194.88.107.95:6204/live/rahma/rahma1234/13409.ts
-#EXTINF:-1,Be- Ketnet
-http://194.88.107.95:6204/live/rahma/rahma1234/13408.ts
-#EXTINF:-1,Be- Ketop12 HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13407.ts
-#EXTINF:-1,Be- Q2 FHD
-http://194.88.107.95:6204/live/rahma/rahma1234/13401.ts
-#EXTINF:-1,Be- RTL TVI
-http://194.88.107.95:6204/live/rahma/rahma1234/13399.ts
-#EXTINF:-1,Be- Serie
-http://194.88.107.95:6204/live/rahma/rahma1234/13398.ts
-#EXTINF:-1,Be- TV Lux
-http://194.88.107.95:6204/live/rahma/rahma1234/13397.ts
-#EXTINF:-1,Be- TVL
-http://194.88.107.95:6204/live/rahma/rahma1234/13396.ts
-#EXTINF:-1,Be- TVO FHD
-http://194.88.107.95:6204/live/rahma/rahma1234/13395.ts
-#EXTINF:-1,Be- Nat Geo HD
-http://194.88.107.95:6204/live/rahma/rahma1234/13403.ts
-#EXTINF:-1,Be- Voo Sport 1
-http://194.88.107.95:6204/live/rahma/rahma1234/13390.ts
-#EXTINF:-1,Be- Voo Sport World 1
-http://194.88.107.95:6204/live/rahma/rahma1234/13389.ts
-#EXTINF:-1,Be- Voo Sport World 2
-http://194.88.107.95:6204/live/rahma/rahma1234/13388.ts
-#EXTINF:-1,Be- Voo Sport World 3
-http://194.88.107.95:6204/live/rahma/rahma1234/13387.ts
-
-#EXTINF:-1,BE BE SERIE
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3714.ts
-#EXTINF:-1,BE BFM
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3715.ts
-#EXTINF:-1,BE BRUXELLES TV
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3716.ts
-#EXTINF:-1,BE CLUB RTL
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3717.ts
-#EXTINF:-1,BE LA DEUX
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3718.ts
-#EXTINF:-1,BE LA TROIS
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3719.ts
-#EXTINF:-1,BE LA UNE HD
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3720.ts
-#EXTINF:-1,BE PLUG RTL
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3721.ts
-#EXTINF:-1,BE RTL TVI
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/3722.ts
-
-#EXTINF:-1,BE: 2BE HD
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9155.ts
-#EXTINF:-1,BE: Acht
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9156.ts
-#EXTINF:-1,BE: CAZ
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9166.ts
-#EXTINF:-1,BE: Cinema Kids
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9169.ts
-#EXTINF:-1,BE: Een HD
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9164.ts
-#EXTINF:-1,BE: La Une
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9158.ts
-#EXTINF:-1,BE: National Geographic
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9168.ts
-#EXTINF:-1,BE: Vitaya
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9161.ts
+#EXTINF:-1,BE: 192 TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/94235
+#EXTINF:-1,BE: 2BE 12 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/107479
+#EXTINF:-1,BE: 2BE FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65216
+#EXTINF:-1,BE: 2BE Q2
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/113131
+#EXTINF:-1,BE: AB3 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/92423
+#EXTINF:-1,BE: ACHT HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/95777
+#EXTINF:-1,BE: ATV Antwerpen
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65215
+#EXTINF:-1,BE: BE CINE HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/102708
+#EXTINF:-1,BE: BE Cinema HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65224
+#EXTINF:-1,BE: BE1 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65223
+#EXTINF:-1,BE: BFM
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/122052
+#EXTINF:-1,BE: Bruxelles TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88651
+#EXTINF:-1,BE: Bx1 Belge
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/92424
+#EXTINF:-1,BE: BX1 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65204
+#EXTINF:-1,BE: BXL1
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/122054
+#EXTINF:-1,BE: CANAL ZOOM
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/122055
+#EXTINF:-1,BE: Canvas FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65214
+#EXTINF:-1,BE: CAZ HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/89504
+#EXTINF:-1,BE: CINE HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/93867
+#EXTINF:-1,BE: Cinema 1
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/86860
+#EXTINF:-1,BE: Cinema 2
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65212
+#EXTINF:-1,BE: CINEMA ANIME
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/107472
+#EXTINF:-1,BE: Cinema KIDS
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/96444
+#EXTINF:-1,BE: Ciné Kids
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88652
+#EXTINF:-1,BE: CLUB RTL HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65225
+#EXTINF:-1,BE: CURIOUS HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/113121
+#EXTINF:-1,BE: Do It TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65235
+#EXTINF:-1,BE: DOBBI TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/130750
+#EXTINF:-1,BE: Dobbit TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/113133
+#EXTINF:-1,BE: EEN FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65222
+#EXTINF:-1,BE: Eleven Sport 4 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/127945
+#EXTINF:-1,BE: Eleven Sports 1 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/127942
+#EXTINF:-1,BE: Eleven Sports 2 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/127943
+#EXTINF:-1,BE: Eleven Sports 3 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/127944
+#EXTINF:-1,BE: Eurosport 2
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/127941
+#EXTINF:-1,BE: Evenaar
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/127936
+#EXTINF:-1,BE: FACE TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/105698
+#EXTINF:-1,BE: JimJam
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65230
+#EXTINF:-1,BE: Kadet HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65210
+#EXTINF:-1,BE: KETNET HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88648
+#EXTINF:-1,BE: KETOP 12 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/89505
+#EXTINF:-1,BE: LA DEUX FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65226
+#EXTINF:-1,BE: LA DEUX HQ
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/126740
+#EXTINF:-1,BE: LA TROIS HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65227
+#EXTINF:-1,BE: LA UNE FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65228
+#EXTINF:-1,BE: NAT GEO FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65207
+#EXTINF:-1,BE: NO TELE
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/135097
+#EXTINF:-1,BE: NOVELE TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/126497
+#EXTINF:-1,BE: NRJ HITS TV
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65208
+#EXTINF:-1,BE: Play Sport 2
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/137942
+#EXTINF:-1,BE: Play Sport 3
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/137943
+#EXTINF:-1,BE: Play Sports 1+ (Only ON by live event)
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/137945
+#EXTINF:-1,BE: Play Sports 2+ (Only ON by live event)
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/137948
+#EXTINF:-1,BE: Play Sports 3+ (Only ON by live event)
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/137947
+#EXTINF:-1,BE: PLUG RTL HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65229
+#EXTINF:-1,BE: Q2 FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/89501
+#EXTINF:-1,BE: RTL CLUB
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/122289
+#EXTINF:-1,BE: RTL HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/92432
+#EXTINF:-1,BE: RTL LOUNGE HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/106542
+#EXTINF:-1,BE: RTL LU
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/93878
+#EXTINF:-1,BE: RTL LUXENBURG
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/128751
+#EXTINF:-1,BE: RTL PLUG
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/106552
+#EXTINF:-1,BE: RTL TVI FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65231
+#EXTINF:-1,BE: RTS Deux HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/135101
+#EXTINF:-1,BE: RTS Un HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/135102
+#EXTINF:-1,BE: SERIES HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/92419
+#EXTINF:-1,BE: TELE BRUXELLE
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/107471
+#EXTINF:-1,BE: TELE SAMBRE
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/106550
+#EXTINF:-1,BE: TV LIMBURG
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/129222
+#EXTINF:-1,BE: TV LUX
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65232
+#EXTINF:-1,BE: TV LUXEMBOURG
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/133827
+#EXTINF:-1,BE: TV7 Bordeaux
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/134848
+#EXTINF:-1,BE: TVL HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65233
+#EXTINF:-1,BE: TVO HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65234
+#EXTINF:-1,BE: Vier FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65205
+#EXTINF:-1,BE: VIJF HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88643
+#EXTINF:-1,BE: VITAYA HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88644
+#EXTINF:-1,BE: VOO Sport 1 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88653
+#EXTINF:-1,BE: Voo Sport 2 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/101413
+#EXTINF:-1,BE: VOO SPORT World 1 FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65238
+#EXTINF:-1,BE: Voo Sport World 2 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/94092
+#EXTINF:-1,BE: Voo Sport World 3 FHD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/94093
+#EXTINF:-1,BE: VOO SPORTS/FOOT
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/86858
+#EXTINF:-1,BE: Voo World 1 HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/106558
 #EXTINF:-1,BE: VTM HD
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9162.ts
-
-#EXTINF:-1,Be- CANVAS HD
-http://194.88.107.95:6204/live/Abas/Abas/8984.ts
-#EXTINF:-1,Be- CINEMA 1
-http://194.88.107.95:6204/live/Abas/Abas/8983.ts
-#EXTINF:-1,Be- CINEMA 2
-http://194.88.107.95:6204/live/Abas/Abas/8982.ts
-#EXTINF:-1,Be- Cinema Kids BE
-http://194.88.107.95:6204/live/Abas/Abas/11093.ts
-#EXTINF:-1,Be- EEN HD
-http://194.88.107.95:6204/live/Abas/Abas/8980.ts
-#EXTINF:-1,Be- LA DEUX
-http://194.88.107.95:6204/live/Abas/Abas/8979.ts
-#EXTINF:-1,Be- LA UNE HD
-http://194.88.107.95:6204/live/Abas/Abas/8977.ts
-#EXTINF:-1,Be- PLUG RTL
-http://194.88.107.95:6204/live/Abas/Abas/8975.ts
-#EXTINF:-1,Be- RTL TVI HD
-http://194.88.107.95:6204/live/Abas/Abas/8972.ts
-#EXTINF:-1,Be- RTS Deux HD
-http://194.88.107.95:6204/live/Abas/Abas/8971.ts
-#EXTINF:-1,Be- RTS Un HD
-http://194.88.107.95:6204/live/Abas/Abas/8970.ts
-#EXTINF:-1,Be- 192 TV BE
-http://194.88.107.95:6204/live/Abas/Abas/11098.ts
-#EXTINF:-1,Be- 2BE FHD BE
-http://194.88.107.95:6204/live/Abas/Abas/11097.ts
-#EXTINF:-1,Be- BX1 BE
-http://194.88.107.95:6204/live/Abas/Abas/11096.ts
-#EXTINF:-1,Be- CAZ BE
-http://194.88.107.95:6204/live/Abas/Abas/11095.ts
-#EXTINF:-1,Be- Cine BE
-http://194.88.107.95:6204/live/Abas/Abas/11094.ts
-#EXTINF:-1,Be- Club RTL BE
-http://194.88.107.95:6204/live/Abas/Abas/11092.ts
-#EXTINF:-1,Be- Do IT BE
-http://194.88.107.95:6204/live/Abas/Abas/11091.ts
-#EXTINF:-1,Be- Kadet BE
-http://194.88.107.95:6204/live/Abas/Abas/11088.ts
-#EXTINF:-1,Be- Ketnet BE
-http://194.88.107.95:6204/live/Abas/Abas/11087.ts
-#EXTINF:-1,Be- Ketop12 HD BE
-http://194.88.107.95:6204/live/Abas/Abas/11086.ts
-#EXTINF:-1,Be- La Trois BE
-http://194.88.107.95:6204/live/Abas/Abas/11085.ts
-#EXTINF:-1,Be- Lux TV BE
-http://194.88.107.95:6204/live/Abas/Abas/11084.ts
-#EXTINF:-1,Be- Nat Geo HD BE
-http://194.88.107.95:6204/live/Abas/Abas/11083.ts
-#EXTINF:-1,Be- Q2 FHD BE
-http://194.88.107.95:6204/live/Abas/Abas/11082.ts
-#EXTINF:-1,Be- Q2 HD BE
-http://194.88.107.95:6204/live/Abas/Abas/11081.ts
-#EXTINF:-1,Be- RTL Lounge HD BE
-http://194.88.107.95:6204/live/Abas/Abas/11080.ts
-#EXTINF:-1,Be- RTL Lux BE
-http://194.88.107.95:6204/live/Abas/Abas/11079.ts
-#EXTINF:-1,Be- Serie BE
-http://194.88.107.95:6204/live/Abas/Abas/11078.ts
-#EXTINF:-1,Be- TV Lux BE
-http://194.88.107.95:6204/live/Abas/Abas/11077.ts
-#EXTINF:-1,Be- TVL BE
-http://194.88.107.95:6204/live/Abas/Abas/11076.ts
-#EXTINF:-1,Be- TVO HD BE
-http://194.88.107.95:6204/live/Abas/Abas/11075.ts
-#EXTINF:-1,Be- VIJF BE
-http://194.88.107.95:6204/live/Abas/Abas/11074.ts
-#EXTINF:-1,Be- VTM Kazoom BE
-http://194.88.107.95:6204/live/Abas/Abas/11068.ts
-#EXTINF:-1,Be- ZES BE
-http://194.88.107.95:6204/live/Abas/Abas/11067.ts
-#EXTINF:-1,Be- VIER
-http://194.88.107.95:6204/live/Abas/Abas/8965.ts
-#EXTINF:-1,Be- VTM HD
-http://194.88.107.95:6204/live/Abas/Abas/8962.ts
-#EXTINF:-1,Be- VTM HD backup
-http://194.88.107.95:6204/live/Abas/Abas/11263.ts
-#EXTINF:-1,Be- VITAYA
-http://194.88.107.95:6204/live/Abas/Abas/8964.ts
-#EXTINF:-1,Be- Eleven Sports 1 BE
-http://194.88.107.95:6204/live/Abas/Abas/11090.ts
-#EXTINF:-1,Be- Eleven Sports 2 BE
-http://194.88.107.95:6204/live/Abas/Abas/11089.ts
-#EXTINF:-1,Be- Voo Sport 1 HD BE
-http://194.88.107.95:6204/live/Abas/Abas/11072.ts
-#EXTINF:-1,Be- Voo Sport World 1 BE
-http://194.88.107.95:6204/live/Abas/Abas/11071.ts
-#EXTINF:-1,Be- Voo Sport World 2 BE
-http://194.88.107.95:6204/live/Abas/Abas/11070.ts
-#EXTINF:-1,Be- Voo Sport World 3 BE
-http://194.88.107.95:6204/live/Abas/Abas/11069.ts
-
-#EXTINF:-1,[BE] CANVAS HD
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/854.ts
-#EXTINF:-1,[BE] CLUB RTL
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/859.ts
-#EXTINF:-1,[BE] LA TROIS
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/856.ts
-#EXTINF:-1,[BE] LA UNE
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/855.ts
-#EXTINF:-1,[BE] PLUG RTL
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/858.ts
-#EXTINF:-1,[BE] RTL TVI
-http://stars.managercw.com:8000/live/iptvfree/iptvfree/857.ts
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/65220
+#EXTINF:-1,BE: VTM Kazoom / Kanaal Z
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/140668
+#EXTINF:-1,BE: VTM Kazoom HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/88649
+#EXTINF:-1,BE: VTM KZOOM
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/135091
+#EXTINF:-1,BE: VTM NIEUWS
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/135105
+#EXTINF:-1,BE: Zes HD
+http://landiptv.live:8080/DavisJM100conx/bb2289b8cdcb/113139
